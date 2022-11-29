@@ -4,3 +4,4 @@
 "Tuseday"
 "Wednesday"
 "Thursday"
+"Friday"
