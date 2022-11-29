@@ -2,3 +2,4 @@
 "Sunday"
 "Monday"
 "Tuseday"
+"Wednesday"
